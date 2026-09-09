@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "onboarding-welcome-figure-abstract.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufirwiaaj7q/onboarding-welcome-figure-abstract.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufirwiaaj7q/onboarding-welcome-figure-abstract.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufirwiaaj7q/onboarding-welcome-figure-abstract.png"
+    },
+    {
+      "status": "success",
+      "filename": "onboarding-camera-guide-abstract.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufisricakbq/onboarding-camera-guide-abstract.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufisricakbq/onboarding-camera-guide-abstract.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufisricakbq/onboarding-camera-guide-abstract.png"
+    },
+    {
+      "status": "success",
+      "filename": "onboarding-privacy-shield-abstract.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufis6acakaq/onboarding-privacy-shield-abstract.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufis6acakaq/onboarding-privacy-shield-abstract.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufis6acakaq/onboarding-privacy-shield-abstract.png"
+    },
+    {
+      "status": "success",
+      "filename": "onboarding-sizing-results-abstract.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufitkycakbq/onboarding-sizing-results-abstract.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufitkycakbq/onboarding-sizing-results-abstract.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1477509/2026-08-17/uufitkycakbq/onboarding-sizing-results-abstract.png"
+    }
+  ],
+  "success_count": 4,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 4/4 images total"
+}
