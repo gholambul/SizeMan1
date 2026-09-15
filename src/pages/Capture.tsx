@@ -36,7 +36,7 @@ const Capture: React.FC = () => {
       setAnalyzing(true);
       try {
         const response = await client.apiCall.invoke({
-          url: '/api/v1/measurement/analyze',
+          url: 'https://sizemanbackend-production.up.railway.app/api/v1/measurement/analyze',
           method: 'POST',
           data: {
             mode,
